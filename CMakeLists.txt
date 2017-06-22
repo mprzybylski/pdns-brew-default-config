@@ -20,4 +20,4 @@ if(NOT DEFINED UNPRIV_GID)
     set(UPRIV_GID pdns)
 endif()
 
-add_subdirectory(etc)
+add_subdirectory(etc/pdns)
